@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xueyi HE</h1>
 <h3 align="center">Non-typical cs art nerd. A program gardener of Postmodern Universe. -.-</h3>
 
-- 🌱 I’m currently working on **LLM, Game, VR, HCI, UX, deeplearning**
+- 🌱 I’m currently working on **LLM, Game, VR, HCI, UI, deeplearning, NLP**
 
 - 👨‍💻 See my art/design project at [https://drive.google.com/file/d/1JEvV_vdNGFStYTNBlm1V3sC-Mux5AyxF/view?usp=drive_link](https://drive.google.com/file/d/1JEvV_vdNGFStYTNBlm1V3sC-Mux5AyxF/view?usp=drive_link)
 
