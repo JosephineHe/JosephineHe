@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Xueyi HE</h1>
 <h3 align="center">Non-typical cs art nerd. A program gardener of Postmodern Universe. -.-</h3>
+I'm gradually filling my page :-)
 
 - 🌱 Working zone / Interests **LLM, Game, VR, HCI, UI, deeplearning, NLP, Film Study**
 
