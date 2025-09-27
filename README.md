@@ -8,7 +8,7 @@ I'm gradually filling my page :-)
 
 - 📝 I regularly write articles on WeChat Official Account [@JosephineAllesha](@JosephineAllesha)
 
-- 📫 How to reach me **josephineallesha@gmail.com**
+- 📫 How to reach me **xh459@cornell.edu**
 
 - ⚡ Fun fact **I'm a freelance model, photographer and moviegoer**
 
