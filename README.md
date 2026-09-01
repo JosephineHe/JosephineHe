@@ -2,7 +2,7 @@
 <h3 align="center">Non-typical cs art nerd. A program gardener of Postmodern Universe. -.-</h3>
 I'm gradually filling my page :-)
 
-- 🌱 Working zone / Interests **LLM, Game, VR, HCI, UI, deeplearning, NLP, Film Study**
+- 🌱 Working zone / Interests **LLM, Game, VR, HCI, UI&UX, Creative Industry, Advertisment**
 
 - 👨‍💻 See my art/design project at [https://drive.google.com/file/d/1JEvV_vdNGFStYTNBlm1V3sC-Mux5AyxF/view?usp=drive_link](https://drive.google.com/file/d/1JEvV_vdNGFStYTNBlm1V3sC-Mux5AyxF/view?usp=drive_link)
 
