@@ -4,7 +4,7 @@ I'm gradually filling my page :-)
 
 - 🌱 Working zone / Interests **LLM, Game, VR, HCI, UI&UX, Creative Industry, Advertisment**
 
-- 👨‍💻 See my art/design project at [https://drive.google.com/file/d/1JEvV_vdNGFStYTNBlm1V3sC-Mux5AyxF/view?usp=drive_link](https://drive.google.com/file/d/1JEvV_vdNGFStYTNBlm1V3sC-Mux5AyxF/view?usp=drive_link)
+- 👨‍💻 See my HCI/Design personal project at [https://drive.google.com/file/d/1JEvV_vdNGFStYTNBlm1V3sC-Mux5AyxF/view?usp=drive_link](https://drive.google.com/file/d/1JEvV_vdNGFStYTNBlm1V3sC-Mux5AyxF/view?usp=drive_link)
 
 - 📝 I regularly write articles on WeChat Official Account [@JosephineAllesha](@JosephineAllesha)
 
