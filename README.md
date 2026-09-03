@@ -6,7 +6,7 @@ I'm gradually filling my page :-)
 
 - 👨‍💻 See my HCI/Design personal project at [https://drive.google.com/file/d/1JEvV_vdNGFStYTNBlm1V3sC-Mux5AyxF/view?usp=drive_link](https://drive.google.com/file/d/1JEvV_vdNGFStYTNBlm1V3sC-Mux5AyxF/view?usp=drive_link)
 
-- 📝 I regularly write articles on WeChat Official Account [@JosephineAllesha](@JosephineAllesha)
+- 📝 I’m a **Product Manager by profession and a 3D artist and creative designer on the side**, with creative work for New York Fashion Week and the New York Photography Association.
 
 - 📫 How to reach me **xh459@cornell.edu**
 
